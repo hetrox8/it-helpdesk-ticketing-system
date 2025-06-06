@@ -4,6 +4,16 @@
 Whenever a user submits a ticket via the Google Form, a unique Ticket ID is generated, an “Open” status is set, and an email notification is sent to IT support automatically.
 
 ---
+# IT Help Desk Ticketing System
+
+[![Made with Google Apps Script](https://img.shields.io/badge/Built%20with-Apps%20Script-blue?logo=google)](https://developers.google.com/apps-script)
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Tracker-success?logo=googlesheets)](https://www.google.com/sheets/about/)
+[![Google Forms](https://img.shields.io/badge/Google%20Forms-Frontend-purple?logo=googleforms)](https://docs.google.com/forms/)
+[![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Project Status](https://img.shields.io/badge/status-Complete-brightgreen)]()
+
+**A lightweight ticketing workflow built with Google Forms, Google Sheets, and Apps Script.**  
+Whenever a user submits a ticket via the Google Form, a unique Ticket ID is generated, an “Open” status is set, and an email notification is sent to IT support automatically.
 
 ## 📌 Table of Contents
 
